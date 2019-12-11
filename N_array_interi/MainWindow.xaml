@@ -8,7 +8,7 @@
         Title="MainWindow" Height="272.687" Width="362.09">
     <Grid>
         <TextBox x:Name="txtGenera"  HorizontalAlignment="Left" Height="26" Margin="26,37,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="86"/>
-        <Button Content="Genera" HorizontalAlignment="Left" Height="26" Margin="235,37,0,0" VerticalAlignment="Top" Width="87" Click="Genera_Click"/>
+        <Button Content="Genera" HorizontalAlignment="Left" Height="26" Margin="235,37,0,0" VerticalAlignment="Top" Width="87" Click="btnGenera_Click"/>
         <Label x:Name="lblArray" HorizontalAlignment="Left" Height="26" Margin="26,137,0,0" VerticalAlignment="Top" Width="296"/>
 
     </Grid>

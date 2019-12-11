@@ -27,7 +27,7 @@ namespace N_array_interi
         }
         Random random = new Random();
 
-        private void Genera_Click(object sender, RoutedEventArgs e)
+        private void btnGenera_Click(object sender, RoutedEventArgs e)
         {
             try
             {
